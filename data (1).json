@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "type": "Electric",
+    "region": "Kanto",
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "ability": "Static"
+  },
+  {
+    "id": 2,
+    "name": "Bulbasaur",
+    "type": "Grass/Poison",
+    "region": "Kanto",
+    "height": "0.7 m",
+    "weight": "6.9 kg",
+    "ability": "Overgrow"
+  },
+  {
+    "id": 3,
+    "name": "Charmander",
+    "type": "Fire",
+    "region": "Kanto",
+    "height": "0.6 m",
+    "weight": "8.5 kg",
+    "ability": "Blaze"
+  },
+  {
+    "id": 4,
+    "name": "Squirtle",
+    "type": "Water",
+    "region": "Kanto",
+    "height": "0.5 m",
+    "weight": "9.0 kg",
+    "ability": "Torrent"
+  },
+  {
+    "id": 5,
+    "name": "Jigglypuff",
+    "type": "Normal/Fairy",
+    "region": "Kanto",
+    "height": "0.5 m",
+    "weight": "5.5 kg",
+    "ability": "Cute Charm"
+  },
+  {
+    "id": 6,
+    "name": "Meowth",
+    "type": "Normal",
+    "region": "Kanto",
+    "height": "0.4 m",
+    "weight": "4.2 kg",
+    "ability": "Pickup"
+  },
+  {
+    "id": 7,
+    "name": "Eevee",
+    "type": "Normal",
+    "region": "Kanto",
+    "height": "0.3 m",
+    "weight": "6.5 kg",
+    "ability": "Run Away"
+  },
+  {
+    "id": 8,
+    "name": "Snorlax",
+    "type": "Normal",
+    "region": "Kanto",
+    "height": "2.1 m",
+    "weight": "460.0 kg",
+    "ability": "Immunity"
+  },
+  {
+    "id": 9,
+    "name": "Lucario",
+    "type": "Fighting/Steel",
+    "region": "Sinnoh",
+    "height": "1.2 m",
+    "weight": "54.0 kg",
+    "ability": "Steadfast"
+  },
+  {
+    "id": 10,
+    "name": "Greninja",
+    "type": "Water/Dark",
+    "region": "Kalos",
+    "height": "1.5 m",
+    "weight": "40.0 kg",
+    "ability": "Torrent"
+  }
+]
